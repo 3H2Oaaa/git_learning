@@ -2,3 +2,4 @@ hello dm hello git
 am dengmiao
 glad to see you!!!
 love git             master test
+love git             hot-fix test
